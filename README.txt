@@ -1,20 +1,16 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Em & M Europe Backpacking Trip
+resikcam.github.io/europe | @resikcam @ekperrotta
+All photos were taken by either myself or Emily on an iPhone X
 
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+This project is meant to be a summary of our month long trip to Europe spanning from December 2018 to the end of January 2019. The trip is broken up by each city/region that we visited. Each page has brief descriptions and images of what we did in each city.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This project is still a work in progress so any demo images* or text is to be ignored for now.
 
-(* = not included)
+* = provided by Unsplash (https://unsplash.com)
 
-AJ
-aj@lkn.io | @ajlkn
+MK
+mackiser@pm.me | @resikcam
 
 
 Credits:
@@ -28,3 +24,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+	Website Design:
+		HTML5up (HTML5up.net)
